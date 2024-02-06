@@ -1,5 +1,7 @@
 #race
 
+# Humans
+
 **Physical Appearance:**
 - Normal, everyday humans.
 
