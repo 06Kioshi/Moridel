@@ -7,5 +7,6 @@
 
 **Natural Traits:**
 - Draconic Roar - They can emit a resonating roar that temporarily disrupts and manipulates the energy flows around them. This roar can cause fluctuations in nearby sources of energy, such as disrupting magical spells, negating technological systems, or overwhelming opponents' focus.
+- Can breathe one element of their choosing.
 
 **Lore:**
